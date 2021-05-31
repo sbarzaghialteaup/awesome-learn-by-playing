@@ -42,3 +42,4 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## Security
 - [Tryhackme](https://tryhackme.com/) \[FREE WITH PREMIUM TIER\]: Learn all things security (pentesting, web security, system hardening) by completing hacking missions!
+- [Hacker101 CTF](https://ctf.hacker101.com/) \[FREE\]: The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers, run by HackerOne.
